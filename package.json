@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "Here I learn Node",
+  "main": "git-test.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrKarlKori/git-test.git"
+  },
+  "author": "MrKarlKori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrKarlKori/git-test/issues"
+  },
+  "homepage": "https://github.com/MrKarlKori/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
